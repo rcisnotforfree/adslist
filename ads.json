@@ -7,6 +7,6 @@
   "admob_interstitial_unit_id": "ca-app-pub-9435382767625682/1489298453",
   "admob_native_unit_id": "ca-app-pub-9435382767625682/5740099303",
   "admob_publisher_id": "pub-9435382767625682",
-  "interstitial_ad_interval": 3,
+  "interstitial_ad_interval": 1,
   "startapp_app_id": 111111
 }
