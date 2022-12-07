@@ -1,6 +1,6 @@
 {
-  "ad_status": "0",
-  "ad_type": "admob",
+  "ad_status": "1",
+  "ad_type": "startapp",
   "admob_app_id": "ca-app-pub-9435382767625682~8192876988",
   "admob_app_open_ad_unit_id": "0",
   "admob_banner_unit_id": "0",
@@ -8,5 +8,5 @@
   "admob_native_unit_id": "ca-app-pub-9435382767625682/5740099303",
   "admob_publisher_id": "pub-9435382767625682",
   "interstitial_ad_interval": 1,
-  "startapp_app_id": 111111
+  "startapp_app_id": 211394661
 }
